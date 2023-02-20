@@ -1,0 +1,33 @@
+.cart{
+    margin:50px 0px;
+}
+
+.table tr td img{
+    width: 80px !important;
+    height: 80px !important;
+    object-fit: cover;
+}
+
+td i{
+    cursor: pointer;
+}
+
+td th{
+    color: var(--primary-color)
+}
+
+.total{
+    background-color: rgba(255, 199, 95, 0.877);
+    border-radius: 20px;
+}
+
+.buy__btn a{
+    text-decoration: none;
+
+}
+
+.delete{
+    font-size: 30px;
+   color: rgba(255, 80, 80, 0.842);
+   cursor: pointer;
+}
